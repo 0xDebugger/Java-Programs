@@ -3,7 +3,7 @@ import java.io.*;
 
 class GFG {
 
-	// A utility function to swap two elements
+	
 	static void swap(int[] arr, int i, int j)
 	{
 		int temp = arr[i];
